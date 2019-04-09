@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Connection: close
+Date: Tue, 09 Apr 2019 09:16:49 GMT
+Content-Type: application/json; charset=utf-8
+Server: Kestrel
+Content-Length: 360
+
+{"instanceId":"3d34e6c54cdb4ff8bc15cb3c4cb59dbb","runtimeStatus":"Completed","input":30719,"customStatus":null,"output":"http://127.0.0.1:10000/devstoreaccount1/largemessages-largemessages/3d34e6c54cdb4ff8bc15cb3c4cb59dbb/history-0000000000000006-executioncompleted-result.json.gz","createdTime":"2019-04-09T09:16:41Z","lastUpdatedTime":"2019-04-09T09:16:44Z"}
